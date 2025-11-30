@@ -8,7 +8,7 @@
 		},
 		{
 			"name": "支付宝",
-			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Alipay"
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Alipay.png"
 		},
 		{
 			"name": "高德地图",
@@ -166,3 +166,4 @@
 			"name": "抖音",
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/TikTok.png"
 		}
+
