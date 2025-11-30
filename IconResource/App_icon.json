@@ -209,9 +209,38 @@
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Spotify.png"
 		},
 		{
-			"name": "知乎",
-			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Zhihu.png"
+			"name": "Clash_Mi",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Clash_Mi.png"
+		},
+		{
+			"name": "Clash_Verge",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Clash_Verge.png"
+		},
+		{
+			"name": "Egern",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Egern.png"
+		},
+		{
+			"name": "Hiddify",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Hiddify.png"
+		},
+		{
+			"name": "Karing",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Karing.png"
+		},
+		{
+			"name": "Loon",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Loon.png"
+		},
+		{
+			"name": "QuantumultX",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/QuantumultX.png"
+		},
+		{
+			"name": "Surge",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Surge.png"
 		},
 	]
 }
+
 
