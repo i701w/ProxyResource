@@ -165,39 +165,40 @@
 		{
 			"name": "抖音",
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/TikTok.png"
-		}
+		},
 		{
 			"name": "Emby",
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Emby.png"
-		}
+		},
 		{
 			"name": "Filebar",
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Filebar.png"
-		}
+		},
 		{
 			"name": "Forward",
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Forward.png"
-		}
+		},
 		{
 			"name": "HamHub",
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/HamHub.png"
-		}
+		},
 		{
 			"name": "Infuse",
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Infuse.png"
-		}
+		},
 		{
 			"name": "Jellyfin",
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Jellyfin.png"
-		}
+		},
 		{
 			"name": "SenPlayer",
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/SenPlayer.png"
-		}
+		},
 		{
 			"name": "VidHub",
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/VidHub.png"
 		}
 	]
 }
+
 
