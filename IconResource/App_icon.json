@@ -1,0 +1,168 @@
+{
+	"name": "i701图标",
+	"description": "App_icon订阅，猫群：@maoqunic",
+	"icons": [
+		{
+			"name": "115网盘",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/115cloud.png"
+		},
+		{
+			"name": "支付宝",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Alipay"
+		},
+		{
+			"name": "高德地图",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/AMap.png"
+		}
+		{
+			"name": "Apple",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Apple.png"
+		}
+		{
+			"name": "Apple_TV",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Apple_TV.png"
+		}
+		{
+			"name": "百度网盘",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/BaiduDrive.png"
+		}
+		{
+			"name": "bilibili",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/bilibili.png"
+		}
+		{
+			"name": "ChatGPT",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/ChatGPT.png"
+		}
+		{
+			"name": "Chrome",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Chrome.png"
+		}
+		{
+			"name": "Copilot",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Copilot.png"
+		}
+		{
+			"name": "DeepSeek",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/DeepSeek.png"
+		}
+		{
+			"name": "Disney",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Disney.png"
+		}
+			{
+			"name": "Edge",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Edge.png"
+		}
+		{
+			"name": "Facebook",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Facebook.png"
+		}
+		{
+			"name": "GitHub",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/GitHub.png"
+		}
+			{
+			"name": "Gmail",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Gmail.png"
+		}
+		{
+			"name": "Google",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Google.png"
+		}
+		{
+			"name": "Google_Maps",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Google_Maps.png"
+		}
+			{
+			"name": "Grok",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Grok.png"
+		}
+		{
+			"name": "咸鱼",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/IdleFish.png"
+		}
+		{
+			"name": "Instagram",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Instagram.png"
+		}
+		{
+			"name": "京东",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Jingdong.png"
+		}
+		{
+			"name": "快手",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Kuaishou.png"
+		}
+		{
+			"name": "LocalSend",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/LocalSend.png"
+		}
+		{
+			"name": "Mail",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Mail.png"
+		}
+		{
+			"name": "美团",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Meituan.png"
+		}
+		{
+			"name": "Netflix",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Netflix.png"
+		}
+		{
+			"name": "OneDrive",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/OneDrive.png"
+		}
+		{
+			"name": "拼多多",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Pinduoduo.png"
+		}
+		{
+			"name": "QQ",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/QQ.png"
+		}
+		{
+			"name": "小红书",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/rednote.png"
+		}
+		{
+			"name": "Spotify",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Spotify.png"
+		}
+		{
+			"name": "淘宝",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Taobao.png"
+		}
+		{
+			"name": "Telegram",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Telegram.png"
+		}
+		{
+			"name": "TikTok",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/TikTok.png"
+		}
+		{
+			"name": "微信",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/WeChat.png"
+		}
+		{
+			"name": "WhatsApp",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/WhatsApp.png"
+		}
+		{
+			"name": "X",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/X.png"
+		}
+		{
+			"name": "YouTube",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/YouTube.png"
+		}
+		{
+			"name": "知乎",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Zhihu.png"
+		}
+		{
+			"name": "抖音",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/TikTok.png"
+		}
