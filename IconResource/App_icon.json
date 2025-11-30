@@ -181,8 +181,12 @@
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/AMap.png"
 		},
 		{
-			"name": "PayPal",
-			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/PayPal.png"
+			"name": "PayPal_Business",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/PayPal_Business.png"
+		},
+		{
+			"name": "PayPal_Pay",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/PayPal_Pay.png"
 		},
 		{
 			"name": "支付宝",
@@ -210,3 +214,4 @@
 		},
 	]
 }
+
