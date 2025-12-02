@@ -1,0 +1,102 @@
+{
+	"name": "各国旗帜图标",
+	"description": "By i701，猫群：@maoqunic",
+	"icons": [
+		{
+			"name": "i701",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/i701.png"
+		},
+		{
+			"name": "UN",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/UN.png"
+		},
+		{
+			"name": "AU",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/AU.png"
+		},
+		{
+			"name": "CA",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/CA.png"
+		},
+		{
+			"name": "CH",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/CH.png"
+		},
+		{
+			"name": "CN",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/CN.png"
+		},
+		{
+			"name": "DE",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/DE.png"
+		},
+		{
+			"name": "FR",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/FR.png"
+		},
+		{
+			"name": "HK",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/HK.png"
+		},
+		{
+			"name": "IL",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/IL.png"
+		},
+		{
+			"name": "IN",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/IN.png"
+		},
+		{
+			"name": "IT",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/IT.png"
+		},
+		{
+			"name": "JP",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/JP.png"
+		},
+		{
+			"name": "KH",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/KH.png"
+		},
+		{
+			"name": "KP",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/KP.png"
+		},
+		{
+			"name": "KR",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/KR.png"
+		},
+		{
+			"name": "MN",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/MN.png"
+		},
+		{
+			"name": "MY",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/MY.png"
+		},
+		{
+			"name": "SG",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/SG.png"
+		},
+		{
+			"name": "TR",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/TR.png"
+		},
+		{
+			"name": "TW",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/TW.png"
+		},
+		{
+			"name": "UK",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/UK.png"
+		},
+		{
+			"name": "US",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/US.png"
+		},
+		{
+			"name": "VN",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/VN.png"
+		},
+	]
+}
