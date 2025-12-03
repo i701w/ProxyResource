@@ -39,6 +39,10 @@
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/HK.png"
 		},
 		{
+			"name": "MO",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/MO.png"
+		},
+		{
 			"name": "IL",
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/IL.png"
 		},
@@ -100,6 +104,7 @@
 		},
 	]
 }
+
 
 
 
