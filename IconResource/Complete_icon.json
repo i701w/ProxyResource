@@ -1,0 +1,336 @@
+{
+	"name": "Complete_icon",
+	"description": "By i701_icon，猫群：@maoqunic",
+	"icons": [
+		{
+			"name": "i701",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/i701.png"
+		},
+		{
+			"name": "Apple",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Apple.png"
+		},
+		{
+			"name": "Apple_TV",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Apple_TV.png"
+		},
+		{
+			"name": "Telegram",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Telegram.png"
+		},
+        {
+			"name": "WhatsApp",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/WhatsApp.png"
+		},
+        {
+			"name": "微信",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/WeChat.png"
+		},
+        {
+			"name": "QQ",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/QQ.png"
+		},
+		{
+			"name": "115网盘",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/115cloud.png"
+		},
+   		{
+			"name": "百度网盘",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/BaiduDrive.png"
+		},
+		{
+			"name": "Netflix",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Netflix.png"
+		},
+		{
+			"name": "X",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/X.png"
+		},
+		{
+			"name": "YouTube",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/YouTube.png"
+		},
+		{
+			"name": "Disney",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Disney.png"
+		},
+		{
+			"name": "Emby",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Emby.png"
+		},
+		{
+			"name": "Filebar",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Filebar.png"
+		},
+		{
+			"name": "Forward",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Forward.png"
+		},
+		{
+			"name": "HamHub",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/HamHub.png"
+		},
+		{
+			"name": "Infuse",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Infuse.png"
+		},
+		{
+			"name": "Jellyfin",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Jellyfin.png"
+		},
+		{
+			"name": "SenPlayer",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/SenPlayer.png"
+		},
+		{
+			"name": "VidHub",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/VidHub.png"
+		},
+		{
+			"name": "TikTok",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/TikTok.png"
+		},
+		{
+			"name": "抖音",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/TikTok.png"
+		},
+		{
+			"name": "Facebook",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Facebook.png"
+		},
+		{
+			"name": "Instagram",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Instagram.png"
+		},
+		{
+			"name": "bilibili",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/bilibili.png"
+		},
+		{
+			"name": "小红书",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/rednote.png"
+		},
+		{
+			"name": "快手",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Kuaishou.png"
+		},
+		{
+			"name": "ChatGPT",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/ChatGPT.png"
+		},
+		{
+			"name": "Grok",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Grok.png"
+		},
+		{
+			"name": "DeepSeek",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/DeepSeek.png"
+		},
+		{
+			"name": "Copilot",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Copilot.png"
+		},
+		{
+			"name": "Google",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Google.png"
+		},
+		{
+			"name": "Google_Maps",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Google_Maps.png"
+		},
+
+		{
+			"name": "Gmail",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Gmail.png"
+		},
+		{
+			"name": "Mail",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Mail.png"
+		},
+		{
+			"name": "Chrome",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Chrome.png"
+		},
+        {
+			"name": "Edge",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Edge.png"
+		},
+		{
+			"name": "咸鱼",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/IdleFish.png"
+		},
+		{
+			"name": "京东",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Jingdong.png"
+		},
+		{
+			"name": "淘宝",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Taobao.png"
+		},
+		{
+			"name": "拼多多",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Pinduoduo.png"
+		},
+
+		{
+			"name": "美团",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Meituan.png"
+		},
+		{
+			"name": "高德地图",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/AMap.png"
+		},
+		{
+			"name": "PayPal_Business",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/PayPal_Business.png"
+		},
+		{
+			"name": "PayPal_Pay",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/PayPal_Pay.png"
+		},
+		{
+			"name": "支付宝",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Alipay.png"
+		},
+		{
+			"name": "GitHub",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/GitHub.png"
+		},
+		{
+			"name": "LocalSend",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/LocalSend.png"
+		},
+		{
+			"name": "OneDrive",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/OneDrive.png"
+		},
+		{
+			"name": "Spotify",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Spotify.png"
+		},
+		{
+			"name": "Clash_Mi",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Clash_Mi.png"
+		},
+		{
+			"name": "Clash_Verge",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Clash_Verge.png"
+		},
+		{
+			"name": "Egern",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Egern.png"
+		},
+		{
+			"name": "Hiddify",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Hiddify.png"
+		},
+		{
+			"name": "Karing",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Karing.png"
+		},
+		{
+			"name": "Loon",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Loon.png"
+		},
+		{
+			"name": "QuantumultX",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/QuantumultX.png"
+		},
+		{
+			"name": "Surge",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Surge.png"
+		},
+		{
+			"name": "UN",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/UN.png"
+		},
+		{
+			"name": "AU",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/AU.png"
+		},
+		{
+			"name": "CA",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/CA.png"
+		},
+		{
+			"name": "CH",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/CH.png"
+		},
+		{
+			"name": "CN",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/CN.png"
+		},
+		{
+			"name": "DE",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/DE.png"
+		},
+		{
+			"name": "FR",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/FR.png"
+		},
+		{
+			"name": "HK",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/HK.png"
+		},
+		{
+			"name": "IL",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/IL.png"
+		},
+		{
+			"name": "IN",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/IN.png"
+		},
+		{
+			"name": "IT",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/IT.png"
+		},
+		{
+			"name": "JP",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/JP.png"
+		},
+		{
+			"name": "KH",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/KH.png"
+		},
+		{
+			"name": "KP",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/KP.png"
+		},
+		{
+			"name": "KR",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/KR.png"
+		},
+		{
+			"name": "MN",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/MN.png"
+		},
+		{
+			"name": "MY",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/MY.png"
+		},
+		{
+			"name": "SG",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/SG.png"
+		},
+		{
+			"name": "TR",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/TR.png"
+		},
+		{
+			"name": "TW",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/TW.png"
+		},
+		{
+			"name": "UK",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/UK.png"
+		},
+		{
+			"name": "US",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/US.png"
+		},
+		{
+			"name": "VN",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/VN.png"
+		},
+	]
+}
