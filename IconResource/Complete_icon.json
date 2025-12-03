@@ -241,6 +241,42 @@
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/App_icon/Surge.png"
 		},
 		{
+			"name": "China",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/China.png"
+		},
+		{
+			"name": "Global",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Global.png"
+		},
+		{
+			"name": "position",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/position.png"
+		},
+		{
+			"name": "proxy",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/proxy.png"
+		},
+		{
+			"name": "Roundrobin",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Roundrobin.png"
+		},
+		{
+			"name": "failover",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/failover.png"
+		},
+		{
+			"name": "Streaming",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Streaming.png"
+		},
+		{
+			"name": "StreamingCN",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/StreamingCN.png"
+		},
+		{
+			"name": "StreamingSE",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/StreamingSE.png"
+		},
+		{
 			"name": "UN",
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/UN.png"
 		},
@@ -338,6 +374,7 @@
 		},
 	]
 }
+
 
 
 
