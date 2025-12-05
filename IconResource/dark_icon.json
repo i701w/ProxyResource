@@ -135,11 +135,20 @@
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/US.png"
 		},
 		{
+			"name": "RU",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/RU.png"
+		},
+		{
+			"name": "TH",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/TH.png"
+		},
+		{
 			"name": "VN",
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/VN.png"
 		},
 	]
 }
+
 
 
 
