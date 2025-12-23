@@ -253,6 +253,10 @@
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/position.png"
 		},
 		{
+			"name": "Backstop",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/Backstop.png"
+		},
+		{
 			"name": "AI",
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/AI.png"
 		},
@@ -263,6 +267,10 @@
 		{
 			"name": "媒体",
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/media.png"
+		},
+		{
+			"name": "SocialApp",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/SocialApp.png"
 		},
 		{
 			"name": "proxy",
@@ -394,6 +402,7 @@
 		},
 	]
 }
+
 
 
 
