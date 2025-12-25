@@ -35,6 +35,26 @@
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/mediaHK.png"
 		},
 		{
+			"name": "媒体US",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/mediaUS.png"
+		},
+		{
+			"name": "媒体JP",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/mediaJP.png"
+		},
+		{
+			"name": "媒体TW",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/mediaTW.png"
+		},
+		{
+			"name": "媒体KR",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/mediaKR.png"
+		},
+		{
+			"name": "媒体SG",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/mediaSG.png"
+		},
+		{
 			"name": "proxy",
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/proxy.png"
 		},
@@ -164,6 +184,7 @@
 		},
 	]
 }
+
 
 
 
