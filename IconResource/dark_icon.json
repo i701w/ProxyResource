@@ -31,6 +31,10 @@
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/media.png"
 		},
 		{
+			"name": "媒体HK",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/mediaHK.png"
+		},
+		{
 			"name": "proxy",
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/proxy.png"
 		},
@@ -160,6 +164,7 @@
 		},
 	]
 }
+
 
 
 
