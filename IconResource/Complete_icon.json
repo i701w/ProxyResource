@@ -269,6 +269,10 @@
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/media.png"
 		},
 		{
+			"name": "媒体HK",
+			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/mediaHK.png"
+		},
+		{
 			"name": "SocialApp",
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/SocialApp.png"
 		},
@@ -402,6 +406,7 @@
 		},
 	]
 }
+
 
 
 
