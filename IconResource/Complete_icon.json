@@ -261,10 +261,6 @@
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/AI.png"
 		},
 		{
-			"name": "AI2",
-			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/AI2.png"
-		},
-		{
 			"name": "媒体",
 			"url": "https://raw.githubusercontent.com/i701w/ProxyResource/main/IconResource/Flag_icon/media.png"
 		},
@@ -430,6 +426,7 @@
 		},
 	]
 }
+
 
 
 
